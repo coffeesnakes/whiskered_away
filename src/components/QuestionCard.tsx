@@ -2,21 +2,25 @@ import React from 'react';
 // typechecking the properties of the Card
 type Card = {
   question: string;
-  answer: string[];
+  answers: string[];
   callback: any;
-  userAnswer: string;
+  users: string;
   questionNumber: number;
   totalQuestions: number;
 }
 // defining as a functional component
 const QuestionCard: React.FC<Card> = ({
-  question, answer, callback, userAnswer, questionNumber, totalQuestions
+  question, answers, callback, userAnswer, questionNumber, totalQuestions
 }) => (
 <div>
 
   <p className='number'>
     Question: {questionNumber} / {totalQuestions}
     </p>
+    <o dangerouslySetInnerHTML={{ __html: question}} />
+    <div>
+    </div>
+
    </div>
 )
 
