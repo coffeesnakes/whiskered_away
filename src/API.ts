@@ -1,4 +1,5 @@
-import { shuffleArray } from './utils';
+ export const shuffleArray = (array: any[]) =>
+  [...array].sort(() => Math.random() - 0.5);
 
 export type Question = {
   category: string;
