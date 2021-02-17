@@ -3,15 +3,18 @@
 ## Description
 **A quiz app built with an Open Trivia API that display a Login Page, after loggin in you will be brought to the main application interface which is a quiz.**
 
-There are 4 possible answers you can choose for each animal related question.
-If the correct answer is chosen the button will be highlighted in green, otherwise if incorrect it will turn red and the correct answer will be shown in green.
-There are embedded ads on the left hand side which will navigate you to [this domain](https://www.petfinder.com/search/pets-for-adoption) that aids in finding pets nearby that are adoptable.
+>There are 4 possible answers you can choose for each animal related question.
+>If the correct answer is chosen the button will be highlighted in green, otherwise if incorrect it will turn red and the correct answer will be shown in green.
+>There are embedded ads on the left hand side which will navigate you to [this domain](https://www.petfinder.com/search/pets-for-adoption) that aids in finding ?>pets nearby that are adoptable.
 
 
 This project was a humanitarian effort to get people to adopt and rescue animals in need.
 
 
 Let's save the animals!
+
+
+
 
 ## Available Scripts
 
