@@ -8,10 +8,13 @@
 >There are embedded ads on the left hand side which will navigate you to [this domain](https://www.petfinder.com/search/pets-for-adoption) that aids in finding ?>pets nearby that are adoptable.
 
 
-### This project was a humanitarian effort to get people to adopt and rescue animals in need.
+
+```
+This project was a humanitarian effort to get people to adopt and rescue animals in need.
+Let's save the animals!
+```
 
 
-### Let's save the animals!
 
 
 
