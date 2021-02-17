@@ -5,7 +5,7 @@
 
 >There are 4 possible answers you can choose for each animal related question.
 >If the correct answer is chosen the button will be highlighted in green, otherwise if incorrect it will turn red and the correct answer will be shown in green.
->There are embedded ads on the left hand side which will navigate you to [this domain](https://www.petfinder.com/search/pets-for-adoption) that aids in finding ?>pets nearby that are adoptable.
+>There are embedded ads on the left hand side which will navigate you to [this domain](https://www.petfinder.com/search/pets-for-adoption) that aids in finding >pets nearby that are adoptable.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vKja_jhJHFQ" target="_blank"><img src="https://i.ibb.co/b5MFFd5/whiskered-Away.jpg" 
 alt="Whiskered Away Video" width="600" height="404" border="10" /></a>
